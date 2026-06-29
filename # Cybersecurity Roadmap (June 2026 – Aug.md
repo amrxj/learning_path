@@ -8,8 +8,10 @@
 
 Graduate in **April 2027** with:
 
-- A full-time **Cybersecurity** offer
-  - or -
+- A full-time **Cybersecurity** offer 
+
+*OR*
+
 - A return offer from my **Work/Study** position
 
 Graduate with:
@@ -31,10 +33,10 @@ Graduate with:
 1. Security Engineer
 2. Detection Engineer
 3. Threat Detection / Threat Research
+4. SOC Analyst
 
 ## Secondary
 
-4. SOC Analyst
 5. Security Analyst
 6. Malware Analyst *(stretch goal)*
 
@@ -48,11 +50,11 @@ Detection Engineering
 Malware Analysis
 ```
 
-Machine Learning remains a **future specialization**, not a graduation requirement.
+Machine Learning remains a **future specialization/hobby thing**, not a graduation requirement.
 
 ---
 
-# Hardware
+# Hardware 
 
 ## Primary Development Machine
 
@@ -114,17 +116,11 @@ Purpose
 
 ---
 
-# Coding Philosophy
+# Philosophy
 
-> **AI is a mentor, not the programmer.**
+> **AI is your explainer, not the guy you copy off of**
 
-✅ AI explains concepts
-
-✅ AI reviews code
-
-✅ AI helps debug
-
-❌ AI does **not** build projects for me
+don't let it build projects for you, that'll just be pointless for your learning.
 
 ## Every Day
 
@@ -132,6 +128,9 @@ Purpose
 - Read code
 - Write code
 - Learn one new thing
+- work on your homelab 
+
+anything as long as it helps you and your future. 
 
 ## Every Week
 
@@ -171,6 +170,10 @@ Every day, answer:
 ### Goal
 
 Become comfortable writing Python **without relying on AI.**
+
+Improve your basic IT and SOC skills. 
+
+Land an internship at a nice cybersec place, get a return offer, ANYTHING as long as you love it and it makes you money. 
 
 ---
 
@@ -405,11 +408,3 @@ Once established in the industry:
 - Python is a tool.
 - The homelab is your classroom.
 - The portfolio is your proof.
-
----
-
-# North Star
-
-> **Become an excellent security engineer first. Specialize second.**
-
-Everything else builds from there.
