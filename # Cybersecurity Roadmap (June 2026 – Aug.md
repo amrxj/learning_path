@@ -124,7 +124,7 @@ don't let it build projects for you, that'll just be pointless for your learning
 
 ## Every Day
 
-- 30–60 minutes of Python
+- 30–60 minutes of Python, Scripting with Bash/Powershell, Anything
 - Read code
 - Write code
 - Learn one new thing
