@@ -13,4 +13,5 @@
 ## What Needs To be Done? 
 - Static IP Address must be configured for Microsoft Server 2022.
 - Active Directory must be configured. 
-- Activate Directory Domain Services must be installed.
+- Activate Directory Domain Services must be installed. 
+> all the above will be done on July 5th, 2026.
