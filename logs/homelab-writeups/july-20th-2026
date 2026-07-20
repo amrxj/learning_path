@@ -1,0 +1,14 @@
+## Day 10 - SOC Homelab
+
+### What Happened? 
+- finalized sysmon understanding
+- attempted install of WAZUH
+- installed and create Linux Server 22.04 LTS VM
+
+
+## What (STILL) Needs To be Done? 
+- Complete installation of Wazuh
+    - installation keeps failing, need to diagnose why and finalize the setup.
+
+## Bonus Notes
+- none for today, lazy monday.
